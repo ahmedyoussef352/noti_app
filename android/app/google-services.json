@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342242041552",
+    "project_id": "notificationapp-91f54",
+    "storage_bucket": "notificationapp-91f54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342242041552:android:cd5dff5acba7b8fc4d48d5",
+        "android_client_info": {
+          "package_name": "com.example.noti_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQPyIkQQqHA9FCTeW1qYKJ1ABXAjR_EdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342242041552:android:acd68a915c98ac4a4d48d5",
+        "android_client_info": {
+          "package_name": "com.example.notiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQPyIkQQqHA9FCTeW1qYKJ1ABXAjR_EdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
